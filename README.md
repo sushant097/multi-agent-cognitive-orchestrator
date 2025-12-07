@@ -10,6 +10,8 @@ This project implements a **Coordinator-driven**, **role-separated**, and **plan
 
 ## ⭐ 1. **Architecture Overview**
 
+*under review*
+
 This system is designed around a central **Coordinator** that manages six independent agents:
 
 ```
