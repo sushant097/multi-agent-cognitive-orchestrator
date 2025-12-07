@@ -74,6 +74,8 @@ Runs tools safely, logs usage, captures errors/latency, and returns execution re
 
 ### **The Blackboard (Global State)**
 
+*initial version*
+
 All agents read/write to a shared JSON-like structure:
 
 * `query`
